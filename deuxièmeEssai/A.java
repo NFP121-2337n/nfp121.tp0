@@ -1,3 +1,5 @@
+package deuxièmeEssai;
+
 
 /**
  * DÃ©crivez votre classe A ici.
